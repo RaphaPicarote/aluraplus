@@ -1,4 +1,4 @@
-[Logo aluraplus -> ALURA+](https://postimg.cc/bdz4g5XN)
+[Logo aluraplus -> ALURA+ ALURA LINGA](https://postimg.cc/cgq06B6t)
 
 # AluraPlus 
 Projeto desenvolvido no curso de HTML e CSS: praticando HTML/CSS - Alura
